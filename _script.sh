@@ -1,5 +1,5 @@
 
-sed -i 's/5/n/' text.txt
+sed -i "s/a/g/" text.txt
 git add .
-git commit -m 'changed 5 to n'
+git commit -m 'changed a to g'
 git push

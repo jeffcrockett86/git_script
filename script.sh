@@ -1,5 +1,5 @@
 
-sed -i s/e/{char}/ text.txt
+sed -i s/e/K/ text.txt
 git add .
-git commit -m 'changed letter to {char}'
+git commit -m 'changed letter e to K'
 git push

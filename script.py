@@ -6,9 +6,9 @@ chars = chars.split()
 char = random.choice(chars)
 print(chars)
 
-open('script.sh', 'w').write('''
+open('script.sh', 'w').write(f'''
 sed -i s/e/{char}/ text.txt
 git add .
-git commit -m 'changed letter to {char}'
+git commit -m 'changed letter e to {char}'
 git push
 ''')

@@ -1,0 +1,1 @@
+open('DARTH_PLAGUEIS.sh', 'w').write('cd ~/Desktop; touch ' + ''.join(['FURRY_PORN_' + str(number) + '.mp4 ' for number in range(10)]))

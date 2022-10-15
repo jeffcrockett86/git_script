@@ -1,5 +1,5 @@
 
-sed -i .bak "s/5/8/" test.txt
+sed -i .bak "s/4/N/" test.txt
 git add .
-git commit -m 'changed 5 to 8'
+git commit -m 'changed 4 to N'
 git push

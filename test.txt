@@ -1,5 +1,5 @@
 onE 
-two
+tFo
 thrEe
 four
 fvvE
@@ -9,7 +9,7 @@ Evght
 nvnE
 tEn
 Eleven
-twElve
+tFElve
 thvrtEen
 fourtEen
 fvftEen
@@ -17,6 +17,6 @@ kvxtEen
 kEventeen
 Evghteen
 nvnEteen
-twEnto
+tFEnto
 
-aDcdEfghvDkl4nopTrktuvwxoRABhxEb4HIJKzM2OPQRTTUVEXY80123N8IF8x
+aDcdEfghvDkl4nopTrktuvFxoRABhxEb4HIJKzM2OPQRTTUVEXY80123N8IF8x

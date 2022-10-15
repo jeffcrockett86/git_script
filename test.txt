@@ -19,4 +19,4 @@ Eighteen
 ninEteen
 twEnty
 
-abcdEfghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789
+abcdEfghijklmnopSrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789

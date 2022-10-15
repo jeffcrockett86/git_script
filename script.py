@@ -8,7 +8,7 @@ char_2 = random.choice(chars)
 print(chars)
 
 open('_script.sh', 'w').write(f'''
-sed -i "s/{char_1}/{char_2}/" text.txt
+sed -i .bak "s/{char_1}/{char_2}/" text.txt
 git add .
 git commit -m 'changed {char_1} to {char_2}'
 git push

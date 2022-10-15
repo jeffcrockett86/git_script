@@ -19,4 +19,4 @@ Evghteen
 nvnEteen
 twEnty
 
-abcdEfghvjklmnopSrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789
+abcdEfghvjklmnopTrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789

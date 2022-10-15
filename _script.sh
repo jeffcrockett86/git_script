@@ -1,5 +1,5 @@
 
-sed -i .bak "s/i/v/" test.txt
+sed -i .bak "s/S/T/" test.txt
 git add .
-git commit -m 'changed i to v'
+git commit -m 'changed S to T'
 git push

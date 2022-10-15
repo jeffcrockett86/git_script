@@ -5,7 +5,7 @@ chars = 'a b c d e f g h i j k l m n o p q r s t u v w x y z A B C D E F G H I J
 chars = chars.split()
 # print(chars)
 f = open('_script.sh', 'w')
-for i in range(10):
+for i in range(1000):
     char_1 = random.choice(chars)
     char_2 = random.choice(chars)
 

@@ -1,0 +1,1 @@
+open('numbers.txt', 'w').write(''.join([str(number) + '\n' for number in range(100)]))
